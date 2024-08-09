@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on identifying authors in Persian literature using both traditional machine learning methods and modern language models like BERT. The work was divided into two main parts: dataset creation and author identification.
+This project focuses on identifying authors in Persian literature using both traditional machine learning methods and modern language models like BERT. The work has two main parts: dataset creation and author identification.
 
 ## Part 1: Dataset Creation
 
